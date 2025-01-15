@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Dynamic Loader",
+    "description": "A JSON file to load dynamic content."
+  },
+  "data": [
+    {
+      "id": 1,
+      "type": "headline",
+      "data": { "title": "Hello World", "subtitle": "Welcome to Our Site" }
+    },
+    {
+      "id": 2,
+      "type": "address",
+      "data": {
+        "street": "1234 Elm St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+      }
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "data": { "content": "This is a dynamic content loader." }
+    }
+  ]
+}
