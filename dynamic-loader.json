@@ -1,7 +1,6 @@
 {
   "meta": {
-    "title": "Dynamic Loader",
-    "description": "A JSON file to load dynamic content."
+    "title": "Dynamic Loader"
   },
   "data": [
     {
@@ -23,6 +22,68 @@
       "id": 3,
       "type": "text",
       "data": { "content": "This is a dynamic content loader." }
+    },
+    {
+      "id": 4,
+      "type": "fishlist",
+      "data": [
+        {
+          "id": 24,
+          "name": "Aal",
+          "closed_from": "2018-10-01",
+          "closed_till": "2019-03-01",
+          "min_length": 50
+        },
+        {
+          "id": 48,
+          "name": "Aland",
+          "closed_from": null,
+          "closed_till": null,
+          "min_length": 25
+        },
+        {
+          "id": 5,
+          "name": "Äsche",
+          "closed_from": "2018-03-01",
+          "closed_till": "2018-04-30",
+          "min_length": 30
+        },
+        {
+          "id": 1,
+          "name": "Bachforelle",
+          "closed_from": "2018-10-20",
+          "closed_till": "2019-03-15",
+          "min_length": 25
+        },
+        {
+          "id": 8,
+          "name": "Barbe",
+          "closed_from": "2018-05-15",
+          "closed_till": "2018-06-15",
+          "min_length": 35
+        },
+        {
+          "id": 37,
+          "name": "Elritze",
+          "closed_from": "2018-01-01",
+          "closed_till": "2018-12-31",
+          "min_length": null
+        },
+        {
+          "id": 39,
+          "name": "Koppe",
+          "closed_from": "2018-01-01",
+          "closed_till": "2018-12-31",
+          "min_length": null
+        },
+        {
+          "id": 2,
+          "name": "Hecht",
+          "closed_from": "2018-02-15",
+          "closed_till": "2018-04-30",
+          "min_length": 45
+        }
+      ]
     }
   ]
 }
