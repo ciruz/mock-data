@@ -84,6 +84,86 @@
           "min_length": 45
         }
       ]
+    },
+    {
+      "id": 5,
+      "type": "districtlist",
+      "data": {
+        "country_code": "at",
+        "state_name": "Steiermark",
+        "regions": [
+          {
+            "id": 24,
+            "name": "Bruck-Mürzzuschlag",
+            "slug": "bruck-muerzzuschlag"
+          },
+          {
+            "id": 69,
+            "name": "Deutschlandsberg",
+            "slug": "deutschlandsberg"
+          },
+          {
+            "id": 70,
+            "name": "Südoststeiermark",
+            "slug": "suedoststeiermark"
+          },
+          {
+            "id": 71,
+            "name": "Graz (Stadt)",
+            "slug": "graz-stadt"
+          },
+          {
+            "id": 72,
+            "name": "Graz-Umgebung",
+            "slug": "graz-umgebung"
+          },
+          {
+            "id": 73,
+            "name": "Hartberg-Fürstenfeld",
+            "slug": "hartberg-fuerstenfeld"
+          },
+          {
+            "id": 74,
+            "name": "Judenburg",
+            "slug": "judenburg"
+          },
+          {
+            "id": 75,
+            "name": "Knittelfeld",
+            "slug": "knittelfeld"
+          },
+          {
+            "id": 76,
+            "name": "Leibnitz",
+            "slug": "leibnitz"
+          },
+          {
+            "id": 77,
+            "name": "Leoben",
+            "slug": "leoben"
+          },
+          {
+            "id": 78,
+            "name": "Liezen",
+            "slug": "liezen"
+          },
+          {
+            "id": 79,
+            "name": "Murau",
+            "slug": "murau"
+          },
+          {
+            "id": 80,
+            "name": "Voitsberg",
+            "slug": "voitsberg"
+          },
+          {
+            "id": 81,
+            "name": "Weiz",
+            "slug": "weiz"
+          }
+        ]
+      }
     }
   ]
 }
