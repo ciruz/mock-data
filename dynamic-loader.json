@@ -21,7 +21,14 @@
     {
       "id": 3,
       "type": "text",
-      "data": { "content": "This is a dynamic content loader." }
+      "data": {
+        "title": "Angelkarten online kaufen in Oberösterreich",
+        "text": "Oberösterreich hat rund 1,5 Millionen Einwohner, die in 18 Bezirken, wie z.B. der Landeshauptstadt Linz, wohnen. Mit einer Fläche von 12.000 km² ist Oberösterreich das viertgrößte Bundesland in Österreich. Rund 122 Einwohner leben je Quadratkilometer. Es gibt in Oberösterreich 137 Flüsse und 48 Seen, ein Großteil davon liegt im Salzkammergut. Die größten Seen sind der Attersee und der Traunsee und die längsten Flüsse die Donau, die Traun und der Inn.",
+        "image": {
+          "url": "https://www.hejfish.com/public/images/baden-wuerttemberg-bodensee.jpg",
+          "description": "Blick auf den Bodensee in Baden-Württemberg | ©Fabian auf Unsplash"
+        }
+      }
     },
     {
       "id": 4,
