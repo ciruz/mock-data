@@ -28,10 +28,14 @@
       "id": 2,
       "type": "address",
       "data": {
-        "street": "1234 Elm St",
-        "city": "Springfield",
-        "state": "IL",
-        "zip": "62701"
+        "logo": "https://file.hejfish.com/image/r200x200/94/7a/947add0f66e4c59396c58bd39b0e0bcdc0701ebc.jpeg",
+        "name": "1. Angelsportverein XYZ e.V.",
+        "street": "XYZ Strasse 2",
+        "city": "Ortschaft",
+        "area_code": "1234",
+        "phone": "0043 (0)111-22222",
+        "email": "foobar@foobar.at",
+        "website": "https://www.foobar.at"
       }
     },
     {
