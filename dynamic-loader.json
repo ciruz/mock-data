@@ -15,7 +15,7 @@
         },
         "form": {
           "button": "Gewässer in Steiermark finden",
-          "url": "https://www.hejfish.com/search?state=9&loc=Steiermark"
+          "url": "/search?state=9&loc=Steiermark"
         },
         "breadcrumbs": {
           "country": {
