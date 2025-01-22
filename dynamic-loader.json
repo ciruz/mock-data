@@ -16,6 +16,22 @@
         "form": {
           "button": "Gewässer in Steiermark finden",
           "url": "https://www.hejfish.com/search?state=9&loc=Steiermark"
+        },
+        "breadcrumbs": {
+          "country": {
+            "slug": "oesterreich",
+            "name": "Österreich",
+            "code": "at"
+          },
+          "state": {
+            "slug": "steiermark",
+            "name": "Steiermark"
+          },
+          "district": {
+            "id": "76",
+            "slug": "leibnitz",
+            "name": "Leibnitz"
+          }
         }
       }
     },
