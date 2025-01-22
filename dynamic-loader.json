@@ -36,11 +36,6 @@
       }
     },
     {
-      "id": 1,
-      "type": "headline",
-      "data": { "title": "Hello World", "subtitle": "Welcome to Our Site" }
-    },
-    {
       "id": 2,
       "type": "address",
       "data": {
