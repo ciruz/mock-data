@@ -12,6 +12,10 @@
         "image": {
           "url": "https://www.hejfish.com/public/images/baden-wuerttemberg-bodensee.jpg",
           "description": "Blick auf den Bodensee in Baden-Württemberg | ©Fabian auf Unsplash"
+        },
+        "form": {
+          "button": "Gewässer in Steiermark finden",
+          "url": "https://www.hejfish.com/search?state=9&loc=Steiermark"
         }
       }
     },
