@@ -121,6 +121,492 @@
       }
     },
     {
+      "id": 3.2,
+      "type": "tickets",
+      "data": {
+        "title": "Die beliebtesten Angelgewässer in der Steiermark",
+        "items": [
+          {
+            "name": "Erlaufsee",
+            "id": 1013,
+            "manager": "ÖSTERREICHISCHE BUNDESFORSTE AG Forstbetrieb Steiermark, FORSTDIREKTION STIFT LILIENFELD",
+            "location": "Scheibbs",
+            "uid": "1013_152325",
+            "slug": "erlaufsee",
+            "accessible": false,
+            "public_transport": false,
+            "boat": true,
+            "belly_boat": true,
+            "night_fishing": false,
+            "ice_fishing": false,
+            "digital_ticket": true,
+            "_geo": {
+              "lat": 47.79252,
+              "lng": 15.27237
+            },
+            "additional_geolocations": [],
+            "picture": "https://file.hejfish.com/image/cc800x600/f7/9f/f79f70a86ccde0757634e59abe0cb5256aa6d4cd.jpeg",
+            "season_from": "0001-03-16",
+            "season_till": "0001-12-31",
+            "fish_names": ["Hecht", "Renke", "Seesaibling"],
+            "technique_names": [
+              "Spinnangeln",
+              "Fliegenfischen",
+              "Schleppangeln",
+              "Hegenenangeln",
+              "Ansitzangeln"
+            ],
+            "country_id": 1,
+            "ticket_categories": ["day"],
+            "price": 4000
+          },
+          {
+            "name": "Enns bei Großraming",
+            "id": 12038,
+            "manager": "Angelsportverein Großraming",
+            "location": "Steyr-Land",
+            "uid": "12038_154214",
+            "slug": "enns-bei-grossraming",
+            "accessible": false,
+            "public_transport": true,
+            "boat": true,
+            "belly_boat": true,
+            "night_fishing": false,
+            "ice_fishing": false,
+            "digital_ticket": false,
+            "_geo": {
+              "lat": 47.848741,
+              "lng": 14.639385
+            },
+            "additional_geolocations": ["47.923,14.435"],
+            "picture": "https://file.hejfish.com/image/cc800x600/0c/a4/0ca4dde13c7d0d090f3b44ed5dd7c5e5cc4ed651.jpeg",
+            "season_from": "0001-05-01",
+            "season_till": "0001-10-31",
+            "fish_names": [
+              "Bachforelle",
+              "Regenbogenforelle",
+              "Seeforelle",
+              "Äsche",
+              "Nase",
+              "Döbel",
+              "Saibling",
+              "Huchen",
+              "Karpfen",
+              "Hecht"
+            ],
+            "technique_names": [
+              "Ansitzangeln",
+              "Fliegenfischen",
+              "Naturköderangeln",
+              "Posenangeln",
+              "Spinnangeln"
+            ],
+            "country_id": 1,
+            "ticket_categories": ["day", "season"],
+            "price": 8000
+          },
+          {
+            "name": "Nussensee",
+            "id": 12290,
+            "manager": "Fischerclub Nussensee - Bad Ischl",
+            "location": "Gmunden",
+            "uid": "12290_154932",
+            "slug": "nussensee",
+            "accessible": false,
+            "public_transport": false,
+            "boat": false,
+            "belly_boat": false,
+            "night_fishing": false,
+            "ice_fishing": false,
+            "digital_ticket": false,
+            "_geo": {
+              "lat": 47.704198,
+              "lng": 13.571339
+            },
+            "additional_geolocations": [],
+            "picture": "https://file.hejfish.com/image/cc800x600/20/e8/20e8db65069b7d185b0634e04291c1b06ff65d79.jpg",
+            "season_from": "0001-05-08",
+            "season_till": "0001-10-31",
+            "fish_names": [
+              "Renke",
+              "Karpfen",
+              "Schleie",
+              "Seeforelle",
+              "Bachforelle",
+              "Regenbogenforelle",
+              "Zander",
+              "Hecht",
+              "Rotauge",
+              "Döbel",
+              "Bachsaibling",
+              "Seesaibling",
+              "Flussbarsch"
+            ],
+            "technique_names": [
+              "Ansitzangeln",
+              "Fliegenfischen",
+              "Hegenenangeln",
+              "Spinnangeln",
+              "Posenangeln"
+            ],
+            "country_id": 1,
+            "ticket_categories": ["day"],
+            "price": 2000
+          },
+          {
+            "name": "Mur bei Tamsweg",
+            "id": 12473,
+            "manager": "ÖSTERREICHISCHE BUNDESFORSTE AG Forstbetrieb Kärnten Lungau",
+            "location": "Tamsweg",
+            "uid": "12473_98225",
+            "slug": "mur-bei-tamsweg",
+            "accessible": false,
+            "public_transport": true,
+            "boat": false,
+            "belly_boat": false,
+            "night_fishing": false,
+            "ice_fishing": false,
+            "digital_ticket": false,
+            "_geo": {
+              "lat": 47.110901,
+              "lng": 13.817094
+            },
+            "additional_geolocations": ["47.075,13.831"],
+            "season_from": "0001-07-01",
+            "season_till": "0001-12-30",
+            "fish_names": ["Bachforelle", "Äsche", "Regenbogenforelle"],
+            "technique_names": ["Fliegenfischen", "Spinnangeln"],
+            "country_id": 1,
+            "ticket_categories": ["day"],
+            "price": 6000
+          },
+          {
+            "name": "Enns - Admont",
+            "id": 12692,
+            "manager": "Fischereiverein Liezen und Umgebung",
+            "location": "Liezen",
+            "uid": "12692_157465",
+            "slug": "enns-admont",
+            "accessible": false,
+            "public_transport": true,
+            "boat": false,
+            "belly_boat": false,
+            "night_fishing": false,
+            "ice_fishing": false,
+            "digital_ticket": false,
+            "_geo": {
+              "lat": 47.572453,
+              "lng": 14.317803
+            },
+            "additional_geolocations": ["47.585,14.387"],
+            "picture": "https://file.hejfish.com/image/cc800x600/9d/8c/9d8c1fac599fc459b52abef1c3c49e8a6e2f40ed.jpeg",
+            "season_from": "0001-03-16",
+            "season_till": "0001-12-31",
+            "fish_names": [
+              "Bachforelle",
+              "Bachsaibling",
+              "Regenbogenforelle",
+              "Huchen",
+              "Hecht",
+              "Koppe",
+              "Äsche"
+            ],
+            "technique_names": ["Fliegenfischen", "Spinnangeln"],
+            "country_id": 1,
+            "ticket_categories": ["day"],
+            "price": 6700
+          },
+          {
+            "name": "Grundlsee",
+            "id": 11336,
+            "manager": "ÖSTERREICHISCHE BUNDESFORSTE AG Forstbetrieb Inneres Salzkammergut",
+            "location": "Liezen",
+            "uid": "11336_132845",
+            "slug": "grundlsee",
+            "accessible": false,
+            "public_transport": false,
+            "boat": false,
+            "belly_boat": false,
+            "night_fishing": false,
+            "ice_fishing": false,
+            "digital_ticket": false,
+            "_geo": {
+              "lat": 47.63249,
+              "lng": 13.862013
+            },
+            "additional_geolocations": [],
+            "picture": "https://file.hejfish.com/image/cc800x600/38/6d/386db4a50674ce7989132a74b099418043736c5f.jpeg",
+            "season_from": "0001-06-01",
+            "season_till": "0001-08-31",
+            "fish_names": [
+              "Hecht",
+              "Flussbarsch",
+              "Döbel",
+              "Seesaibling",
+              "Seeforelle"
+            ],
+            "technique_names": ["Spinnangeln"],
+            "country_id": 1,
+            "ticket_categories": [],
+            "price": null
+          },
+          {
+            "name": "Toplitzsee",
+            "id": 11338,
+            "manager": "ÖSTERREICHISCHE BUNDESFORSTE AG Forstbetrieb Inneres Salzkammergut",
+            "location": "Liezen",
+            "uid": "11338_124835",
+            "slug": "toplitzsee",
+            "accessible": false,
+            "public_transport": false,
+            "boat": false,
+            "belly_boat": false,
+            "night_fishing": false,
+            "ice_fishing": false,
+            "digital_ticket": false,
+            "_geo": {
+              "lat": 47.643218,
+              "lng": 13.929437
+            },
+            "additional_geolocations": [],
+            "picture": "https://file.hejfish.com/image/cc800x600/83/1b/831b2df8041211eccee546977d05a87a14633a5b.jpeg",
+            "season_from": "0001-06-01",
+            "season_till": "0001-08-31",
+            "fish_names": ["Seesaibling"],
+            "technique_names": ["Fliegenfischen", "Spinnangeln"],
+            "country_id": 1,
+            "ticket_categories": [],
+            "price": null
+          },
+          {
+            "name": "Panoramasee",
+            "id": 12641,
+            "manager": "Fischereiverein Liezen und Umgebung",
+            "location": "Liezen",
+            "uid": "12641_157415",
+            "slug": "panoramasee",
+            "accessible": false,
+            "public_transport": false,
+            "boat": false,
+            "belly_boat": false,
+            "night_fishing": true,
+            "ice_fishing": false,
+            "digital_ticket": false,
+            "_geo": {
+              "lat": 47.575692,
+              "lng": 14.397883
+            },
+            "additional_geolocations": [],
+            "picture": "https://file.hejfish.com/image/cc800x600/ba/98/ba98434d3d1f479d3edf0f0d58ff0a33e40a00b7.jpeg",
+            "season_from": "0001-05-01",
+            "season_till": "0001-11-30",
+            "fish_names": [
+              "Karpfen",
+              "Amur",
+              "Tolstolob",
+              "Schleie",
+              "Rotauge",
+              "Rotfeder",
+              "Hecht",
+              "Zander",
+              "Flussbarsch",
+              "Stör",
+              "Karausche"
+            ],
+            "technique_names": [
+              "Ansitzangeln",
+              "Friedfischangeln",
+              "Karpfenangeln",
+              "Posenangeln",
+              "Raubfischangeln"
+            ],
+            "country_id": 1,
+            "ticket_categories": [],
+            "price": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 3.8,
+      "type": "staticmap",
+      "data": {
+        "center": "",
+        "items": [
+          [
+            {
+              "name": "Salza - Palfauer Schlucht",
+              "id": 15282,
+              "_geo": {
+                "lat": 47.712088,
+                "lng": 14.830881
+              }
+            },
+            {
+              "name": "Mendlingbach",
+              "id": 15389,
+              "_geo": {
+                "lat": 47.713089,
+                "lng": 14.831735
+              }
+            },
+            {
+              "name": "Raab - Abschnitt Pertlstein",
+              "id": 15414,
+              "_geo": {
+                "lat": 46.947272,
+                "lng": 15.95129
+              }
+            },
+            {
+              "name": "Salza Oberlauf im Halltal",
+              "id": 1011,
+              "_geo": {
+                "lat": 47.790478,
+                "lng": 15.439841
+              }
+            },
+            {
+              "name": "Mürz - Kapellen",
+              "id": 1012,
+              "_geo": {
+                "lat": 47.63892,
+                "lng": 15.64197
+              }
+            },
+            {
+              "name": "Mürz, Scheiterboden I und II",
+              "id": 11389,
+              "_geo": {
+                "lat": 47.678388,
+                "lng": 15.489083
+              }
+            },
+            {
+              "name": "Putterersee",
+              "id": 12240,
+              "_geo": {
+                "lat": 47.518686,
+                "lng": 14.133566
+              }
+            },
+            {
+              "name": "Enns - Admont",
+              "id": 12692,
+              "_geo": {
+                "lat": 47.572453,
+                "lng": 14.317803
+              }
+            },
+            {
+              "name": "Mürz - Frein",
+              "id": 12796,
+              "_geo": {
+                "lat": 47.753007,
+                "lng": 15.508534
+              }
+            },
+            {
+              "name": "Salzaklamm",
+              "id": 13203,
+              "_geo": {
+                "lat": 47.767094,
+                "lng": 15.344563
+              }
+            },
+            {
+              "name": "Hubertussee",
+              "id": 15221,
+              "_geo": {
+                "lat": 47.808221,
+                "lng": 15.36612
+              }
+            },
+            {
+              "name": "Grundlsee",
+              "id": 11336,
+              "_geo": {
+                "lat": 47.63249,
+                "lng": 13.862013
+              }
+            },
+            {
+              "name": "Toplitzsee",
+              "id": 11338,
+              "_geo": {
+                "lat": 47.643218,
+                "lng": 13.929437
+              }
+            },
+            {
+              "name": "Teich in der Walster",
+              "id": 11792,
+              "_geo": {
+                "lat": 47.80873,
+                "lng": 15.365596
+              }
+            },
+            {
+              "name": "Fliegenfischer-Revier \"Donnersbach\" in Donnersbachwald",
+              "id": 12250,
+              "_geo": {
+                "lat": 47.384119,
+                "lng": 14.117073
+              }
+            },
+            {
+              "name": "Panoramasee",
+              "id": 12641,
+              "_geo": {
+                "lat": 47.575692,
+                "lng": 14.397883
+              }
+            },
+            {
+              "name": "Palten - Rottenmann",
+              "id": 12693,
+              "_geo": {
+                "lat": 47.50927,
+                "lng": 14.452689
+              }
+            },
+            {
+              "name": "Gamperlacke",
+              "id": 15489,
+              "_geo": {
+                "lat": 47.553632,
+                "lng": 14.273095
+              }
+            },
+            {
+              "name": "Dechlerlacke",
+              "id": 15490,
+              "_geo": {
+                "lat": 47.550847,
+                "lng": 14.265579
+              }
+            },
+            {
+              "name": "Ödensee",
+              "id": 15496,
+              "_geo": {
+                "lat": 47.561204,
+                "lng": 13.820669
+              }
+            },
+            {
+              "name": "Grüner See",
+              "id": 15557,
+              "_geo": {
+                "lat": 47.542261,
+                "lng": 15.056662
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
       "id": 4,
       "type": "fishlist",
       "data": [
