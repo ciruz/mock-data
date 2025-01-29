@@ -125,80 +125,65 @@
     },
     {
       "id": 5,
-      "type": "districtlist",
+      "type": "linklist",
       "data": {
-        "country_code": "at",
-        "state_name": "Steiermark",
-        "regions": [
+        "title": "Alle Bezirke in der Steiermark",
+        "links": [
           {
-            "id": 24,
-            "name": "Bruck-Mürzzuschlag",
-            "slug": "bruck-muerzzuschlag"
+            "title": "Bruck-Mürzzuschlag",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 69,
-            "name": "Deutschlandsberg",
-            "slug": "deutschlandsberg"
+            "title": "Deutschlandsberg",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 70,
-            "name": "Südoststeiermark",
-            "slug": "suedoststeiermark"
+            "title": "Südoststeiermark",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 71,
-            "name": "Graz (Stadt)",
-            "slug": "graz-stadt"
+            "title": "Graz (Stadt)",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 72,
-            "name": "Graz-Umgebung",
-            "slug": "graz-umgebung"
+            "title": "Graz-Umgebung",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 73,
-            "name": "Hartberg-Fürstenfeld",
-            "slug": "hartberg-fuerstenfeld"
+            "title": "Hartberg-Fürstenfeld",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 74,
-            "name": "Judenburg",
-            "slug": "judenburg"
+            "title": "Judenburg",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 75,
-            "name": "Knittelfeld",
-            "slug": "knittelfeld"
+            "title": "Knittelfeld",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 76,
-            "name": "Leibnitz",
-            "slug": "leibnitz"
+            "title": "Leibnitz",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 77,
-            "name": "Leoben",
-            "slug": "leoben"
+            "title": "Leoben",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 78,
-            "name": "Liezen",
-            "slug": "liezen"
+            "title": "Liezen",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 79,
-            "name": "Murau",
-            "slug": "murau"
+            "title": "Murau",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 80,
-            "name": "Voitsberg",
-            "slug": "voitsberg"
+            "title": "Voitsberg",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           },
           {
-            "id": 81,
-            "name": "Weiz",
-            "slug": "weiz"
+            "title": "Weiz",
+            "url": "de/angeln/c/oesterreich/s/steiermark/d/graz-umgebung-72"
           }
         ]
       }
