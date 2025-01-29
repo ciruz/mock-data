@@ -62,6 +62,65 @@
       }
     },
     {
+      "id": 3.1,
+      "type": "photos",
+      "data": {
+        "title": "Fänge und Fotos unserer Benutzer",
+        "photos": [
+          {
+            "type": "area",
+            "photo": {
+              "thumb": "https://file.hejfish.com/image/cc800x600/45/0e/450ee043d98500376885fa9aba29ad96032c0e6d.jpg",
+              "large": "https://file.hejfish.com/image/r1400x1400/45/0e/450ee043d98500376885fa9aba29ad96032c0e6d.jpg"
+            },
+            "title": "Gewässerfoto",
+            "text": null,
+            "author": "Test 1"
+          },
+          {
+            "type": "catch",
+            "photo": {
+              "thumb": "https://file.hejfish.com/image/cc800x600/83/e9/83e91ea4860d11eca6f6d017d14df23a4d665952.jpg",
+              "large": "https://file.hejfish.com/image/r1400x1400/83/e9/83e91ea4860d11eca6f6d017d14df23a4d665952.jpg"
+            },
+            "title": "Flussbarsch",
+            "text": "45cm, 1.16kg",
+            "author": "Test 2"
+          },
+          {
+            "type": "catch",
+            "photo": {
+              "thumb": "https://file.hejfish.com/image/cc800x600/4f/21/4f219124de0596eb931795e4e50a35c9ec433b18.jpg",
+              "large": "https://file.hejfish.com/image/r1400x1400/4f/21/4f219124de0596eb931795e4e50a35c9ec433b18.jpg"
+            },
+            "title": "Hecht",
+            "text": "107cm, 9kg",
+            "author": "Test 3"
+          },
+          {
+            "type": "catch",
+            "photo": {
+              "thumb": "https://file.hejfish.com/image/cc800x600/3b/9b/3b9b17e7521fbc8ed094f7de92f850037ebcb456.jpg",
+              "large": "https://file.hejfish.com/image/r1400x1400/3b/9b/3b9b17e7521fbc8ed094f7de92f850037ebcb456.jpg"
+            },
+            "title": "Hecht",
+            "text": "92, 6.46kg",
+            "author": "Test 4"
+          },
+          {
+            "type": "catch",
+            "photo": {
+              "thumb": "https://file.hejfish.com/image/cc800x600/12/cc/12cc3b2ce9d73ff3f7976777cf48647501dff98b.jpg",
+              "large": "https://file.hejfish.com/image/r1400x1400/12/cc/12cc3b2ce9d73ff3f7976777cf48647501dff98b.jpg"
+            },
+            "title": "Flussbarsch",
+            "text": "41cm, 1kg",
+            "author": "Test 5"
+          }
+        ]
+      }
+    },
+    {
       "id": 4,
       "type": "fishlist",
       "data": [
